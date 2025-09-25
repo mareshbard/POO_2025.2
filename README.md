@@ -1,27 +1,27 @@
 # POO_2025.2
 Questões da disciplina de Programação Orientada a Objetos (POO), desenvolvidas em 3 linguagens: 
-- C++
-- Java
-- Python
+- C++ (🆗)
+- Java (☑️)
+- Python (✔️)
 
 
 # Lista De Exercícios:
 
-1. Verificar se um número é par ou ímpar.  
+1. Verificar se um número é par ou ímpar.  🆗
 
-2. Calcular a média aritmética entre dois números  
+2. Calcular a média aritmética entre dois números  :ok:
 
-3. Calcular a média geométrica entre dois números  
+3. Calcular a média geométrica entre dois números  🆗
 
-4. Calcular a média harmônica entre dois números  
+4. Calcular a média harmônica entre dois números  🆗
 
-5. Escolher o maior entre dois números      
+5. Escolher o maior entre dois números      🆗
 
-6. Calcular a hipotenusa de um triângulo retângulo dados os valores dos lados  
+6. Calcular a hipotenusa de um triângulo retângulo dados os valores dos lados  🆗
 
-7. Escolher o maior e o menor entre três números  
+7. Escolher o maior e o menor entre três números  🆗
 
-8. Calcular as raízes de uma equação do segundo grau  
+8. Calcular as raízes de uma equação do segundo grau  🆗
 
 9. Transformar temperatura para graus célsius e graus fahrenheit e vice-versa  
 
