@@ -7,7 +7,7 @@ Questões da disciplina de Programação Orientada a Objetos (POO), desenvolvida
 
 # Lista De Exercícios:
 
-1. Verificar se um número é par ou ímpar.  🆗
+1. Verificar se um número é par ou ímpar  🆗☑️
 
 2. Calcular a média aritmética entre dois números  :ok:
 
@@ -23,7 +23,7 @@ Questões da disciplina de Programação Orientada a Objetos (POO), desenvolvida
 
 8. Calcular as raízes de uma equação do segundo grau  🆗
 
-9. Transformar temperatura para graus célsius e graus fahrenheit e vice-versa  
+9. Transformar temperatura para graus célsius e graus fahrenheit e vice-versa  🆗
 
 10. Transformar polegadas e pés para centímetros e vice-versa  
 
@@ -37,7 +37,7 @@ Questões da disciplina de Programação Orientada a Objetos (POO), desenvolvida
 
 15. Gerar uma progressão aritmética com razão crescente do tipo: 1,2,4,7,11,16,.... com "N" números  
 
-16. Gerar a série de Fibonacci com N números (sem usar listas)  
+16. Gerar a série de Fibonacci com N números (sem usar listas)  ✔️
 
 17. Calcular a soma dos N primeiros números da série de Fibonacci  
 
